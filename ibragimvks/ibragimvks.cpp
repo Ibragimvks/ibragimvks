@@ -10,6 +10,12 @@ int main()
 {
     for (int i = 0; i < 20; i++)
         Beep(1000 + i * 20, 1000 - i * 40);
+
+
+
+
+
+
     Beep(5000, 10000);
      Beep(330, 100); Sleep(100);
      Beep(330, 100); Sleep(300);
